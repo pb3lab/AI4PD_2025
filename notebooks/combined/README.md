@@ -16,3 +16,4 @@
 
 - **drive link**
     - find all colab notebooks, **because notebooks are properly shown here** --> from there you should download/copy the notebooks
+    - or [https://drive.google.com/drive/folders/147XQ4BMFqympJpjW6YxeLkvnPqyIUpSC\?usp\=sharing](https://drive.google.com/drive/folders/147XQ4BMFqympJpjW6YxeLkvnPqyIUpSC\?usp\=sharing)
