@@ -9,5 +9,6 @@ Together, ProtFlow and RiffDiff offer accessible, reproducible workflows for de 
 We provide two tutorials
 
 -ProtFlow_tutorial_RiffDiff.ipynb to create an artificial motif library for enzyme design
+
 -ProtFlow_tutorial_binderdesign.ipynb to run the first cycle of a binder design pipeline using RFdiffusion, ProteinMPNN and Boltz-2
 
