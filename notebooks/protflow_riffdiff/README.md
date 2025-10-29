@@ -17,6 +17,6 @@ We provide two tutorials
 
 -ProtFlow_tutorial_RiffDiff.ipynb to create an artificial motif library for enzyme design
 
--ProtFlow_tutorial_binderdesign.ipynb to run the first cycle of a binder design pipeline using RFdiffusion, ProteinMPNN and Boltz-2, ProtFlow_tutorial_binderdesign_premade_env.ipynb is the same but much faster in setting up the needed tools but you have to provide the environments (contact horst.lechner@tugraz.at to get access to them and provide a gmail adress)
+-ProtFlow_tutorial_binderdesign.ipynb to run the first cycle of a binder design pipeline using RFdiffusion, ProteinMPNN and Boltz-2, ProtFlow_tutorial_binderdesign_premade_env.ipynb is the same but much faster in setting up the needed tools, but you have to provide the environments (contact horst.lechner@tugraz.at to get access to them and provide a gmail adress)
 
 
