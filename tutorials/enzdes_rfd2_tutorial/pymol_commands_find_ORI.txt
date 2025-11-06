@@ -1,0 +1,15 @@
+I put some commands in here to try to find 'initial coordinates' for theozyme generation
+
+First open pymol with your protein of interest. 
+
+Then run the line below. This will give you a sphere. You can drag the sphere in pymol to a place where you think ORI tokens should be generated around.
+
+
+cmd.delete("molecule1");cmd.pseudoatom(object="molecule1", pos=[-1,3,2], elem="ORI", name="ORI", vdw=1.5, hetatm=True, chain='z', segi='z', resn="ORI"); cmd.show("sphere", "molecule1");
+
+
+After you get the sphere in the correct place, run this command. 
+
+iterate_state 1, molecule1, print(name, x, y, z)
+
+This will print the x y z coordinates of the sphere. You can then use these coordinates as initial coordinates for sampling ORI token locations.
